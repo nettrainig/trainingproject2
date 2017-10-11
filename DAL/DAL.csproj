@@ -60,6 +60,7 @@
     <Compile Include="configurations\OrderEntityConfiguration.cs" />
     <Compile Include="configurations\OrerDetailEntityConfiguration.cs" />
     <Compile Include="configurations\ProductEntityConfiguration.cs" />
+    <Compile Include="dto\ClientOrderInfo.cs" />
     <Compile Include="dto\OrderCostInfo.cs" />
     <Compile Include="dto\OrderTotalCostInfo.cs" />
     <Compile Include="logic\AggregatedCalculator.cs" />
